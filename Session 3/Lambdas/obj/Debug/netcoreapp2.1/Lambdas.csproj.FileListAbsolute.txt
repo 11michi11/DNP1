@@ -1,0 +1,11 @@
+C:\Users\Michi\Desktop\DNP1\Session 3\Lambdas\bin\Debug\netcoreapp2.1\Lambdas.deps.json
+C:\Users\Michi\Desktop\DNP1\Session 3\Lambdas\bin\Debug\netcoreapp2.1\Lambdas.runtimeconfig.json
+C:\Users\Michi\Desktop\DNP1\Session 3\Lambdas\bin\Debug\netcoreapp2.1\Lambdas.runtimeconfig.dev.json
+C:\Users\Michi\Desktop\DNP1\Session 3\Lambdas\bin\Debug\netcoreapp2.1\Lambdas.dll
+C:\Users\Michi\Desktop\DNP1\Session 3\Lambdas\bin\Debug\netcoreapp2.1\Lambdas.pdb
+C:\Users\Michi\Desktop\DNP1\Session 3\Lambdas\obj\Debug\netcoreapp2.1\Lambdas.csprojAssemblyReference.cache
+C:\Users\Michi\Desktop\DNP1\Session 3\Lambdas\obj\Debug\netcoreapp2.1\Lambdas.csproj.CoreCompileInputs.cache
+C:\Users\Michi\Desktop\DNP1\Session 3\Lambdas\obj\Debug\netcoreapp2.1\Lambdas.AssemblyInfoInputs.cache
+C:\Users\Michi\Desktop\DNP1\Session 3\Lambdas\obj\Debug\netcoreapp2.1\Lambdas.AssemblyInfo.cs
+C:\Users\Michi\Desktop\DNP1\Session 3\Lambdas\obj\Debug\netcoreapp2.1\Lambdas.dll
+C:\Users\Michi\Desktop\DNP1\Session 3\Lambdas\obj\Debug\netcoreapp2.1\Lambdas.pdb

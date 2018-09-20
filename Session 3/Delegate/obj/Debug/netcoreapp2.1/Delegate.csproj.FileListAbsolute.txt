@@ -1,0 +1,11 @@
+C:\Users\Michi\Desktop\DNP1\Session 3\Delegate\bin\Debug\netcoreapp2.1\Delegate.deps.json
+C:\Users\Michi\Desktop\DNP1\Session 3\Delegate\bin\Debug\netcoreapp2.1\Delegate.runtimeconfig.json
+C:\Users\Michi\Desktop\DNP1\Session 3\Delegate\bin\Debug\netcoreapp2.1\Delegate.runtimeconfig.dev.json
+C:\Users\Michi\Desktop\DNP1\Session 3\Delegate\bin\Debug\netcoreapp2.1\Delegate.dll
+C:\Users\Michi\Desktop\DNP1\Session 3\Delegate\bin\Debug\netcoreapp2.1\Delegate.pdb
+C:\Users\Michi\Desktop\DNP1\Session 3\Delegate\obj\Debug\netcoreapp2.1\Delegate.csprojAssemblyReference.cache
+C:\Users\Michi\Desktop\DNP1\Session 3\Delegate\obj\Debug\netcoreapp2.1\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Michi\Desktop\DNP1\Session 3\Delegate\obj\Debug\netcoreapp2.1\Delegate.AssemblyInfoInputs.cache
+C:\Users\Michi\Desktop\DNP1\Session 3\Delegate\obj\Debug\netcoreapp2.1\Delegate.AssemblyInfo.cs
+C:\Users\Michi\Desktop\DNP1\Session 3\Delegate\obj\Debug\netcoreapp2.1\Delegate.dll
+C:\Users\Michi\Desktop\DNP1\Session 3\Delegate\obj\Debug\netcoreapp2.1\Delegate.pdb

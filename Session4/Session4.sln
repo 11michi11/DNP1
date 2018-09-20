@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streaming", "Streaming\Streaming.csproj", "{7F96D44A-621B-4942-9A19-34D08211D878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization", "Serialization\Serialization.csproj", "{58382AEC-E997-439F-9B63-871C5CDEFFD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "Task\Task.csproj", "{765D7D09-BB7B-44FE-ADD8-8E1483ADDDD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP", "TCP\TCP.csproj", "{1E1445A0-240C-4481-9982-8C9B41A34CA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClient", "TCPClient\TCPClient.csproj", "{15647FE1-A1C5-4027-A0DD-3DEF717C8EB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F96D44A-621B-4942-9A19-34D08211D878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F96D44A-621B-4942-9A19-34D08211D878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F96D44A-621B-4942-9A19-34D08211D878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F96D44A-621B-4942-9A19-34D08211D878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58382AEC-E997-439F-9B63-871C5CDEFFD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58382AEC-E997-439F-9B63-871C5CDEFFD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58382AEC-E997-439F-9B63-871C5CDEFFD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58382AEC-E997-439F-9B63-871C5CDEFFD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765D7D09-BB7B-44FE-ADD8-8E1483ADDDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765D7D09-BB7B-44FE-ADD8-8E1483ADDDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765D7D09-BB7B-44FE-ADD8-8E1483ADDDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765D7D09-BB7B-44FE-ADD8-8E1483ADDDD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E1445A0-240C-4481-9982-8C9B41A34CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1445A0-240C-4481-9982-8C9B41A34CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1445A0-240C-4481-9982-8C9B41A34CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1445A0-240C-4481-9982-8C9B41A34CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15647FE1-A1C5-4027-A0DD-3DEF717C8EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15647FE1-A1C5-4027-A0DD-3DEF717C8EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15647FE1-A1C5-4027-A0DD-3DEF717C8EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15647FE1-A1C5-4027-A0DD-3DEF717C8EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

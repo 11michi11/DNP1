@@ -1,0 +1,11 @@
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Collections\bin\Debug\netcoreapp2.1\Collections.deps.json
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Collections\bin\Debug\netcoreapp2.1\Collections.runtimeconfig.json
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Collections\bin\Debug\netcoreapp2.1\Collections.runtimeconfig.dev.json
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Collections\bin\Debug\netcoreapp2.1\Collections.dll
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Collections\bin\Debug\netcoreapp2.1\Collections.pdb
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Collections\obj\Debug\netcoreapp2.1\Collections.csprojAssemblyReference.cache
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Collections\obj\Debug\netcoreapp2.1\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Collections\obj\Debug\netcoreapp2.1\Collections.AssemblyInfoInputs.cache
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Collections\obj\Debug\netcoreapp2.1\Collections.AssemblyInfo.cs
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Collections\obj\Debug\netcoreapp2.1\Collections.dll
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Collections\obj\Debug\netcoreapp2.1\Collections.pdb

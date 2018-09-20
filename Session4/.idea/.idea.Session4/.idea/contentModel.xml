@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="\4ee913c2" t="IncludeRecursive" />
+    <e p="\app" t="IncludeRecursive" />
+    <e p="C:\Users\Michi\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Michi\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Session4.-1956020852.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Michi\Desktop\DNP1\Session4" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Serialization" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Serialization.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="person.bin" t="Include" />
+        <e p="Person.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Serialization.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Session4.sln" t="IncludeFlat" />
+      <e p="Streaming" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="file.txt" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Streaming.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Streaming.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Task" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="file1.txt" t="Include" />
+        <e p="file2.txt" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Task.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Reader.cs" t="Include" />
+        <e p="Task.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TCP" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="TCP.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="TCP.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TCPClient" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="TCPClient.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="TCPClient.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

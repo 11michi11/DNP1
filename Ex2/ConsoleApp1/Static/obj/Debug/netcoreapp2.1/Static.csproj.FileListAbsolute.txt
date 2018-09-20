@@ -1,0 +1,11 @@
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Static\bin\Debug\netcoreapp2.1\Static.deps.json
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Static\bin\Debug\netcoreapp2.1\Static.runtimeconfig.json
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Static\bin\Debug\netcoreapp2.1\Static.runtimeconfig.dev.json
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Static\bin\Debug\netcoreapp2.1\Static.dll
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Static\bin\Debug\netcoreapp2.1\Static.pdb
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Static\obj\Debug\netcoreapp2.1\Static.csprojAssemblyReference.cache
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Static\obj\Debug\netcoreapp2.1\Static.csproj.CoreCompileInputs.cache
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Static\obj\Debug\netcoreapp2.1\Static.AssemblyInfoInputs.cache
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Static\obj\Debug\netcoreapp2.1\Static.AssemblyInfo.cs
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Static\obj\Debug\netcoreapp2.1\Static.dll
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Static\obj\Debug\netcoreapp2.1\Static.pdb

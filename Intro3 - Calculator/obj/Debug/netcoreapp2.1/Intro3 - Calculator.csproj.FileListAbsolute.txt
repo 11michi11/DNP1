@@ -1,0 +1,11 @@
+C:\Users\Michi\Desktop\DNP1\Intro3 - Calculator\bin\Debug\netcoreapp2.1\Intro3 - Calculator.deps.json
+C:\Users\Michi\Desktop\DNP1\Intro3 - Calculator\bin\Debug\netcoreapp2.1\Intro3 - Calculator.runtimeconfig.json
+C:\Users\Michi\Desktop\DNP1\Intro3 - Calculator\bin\Debug\netcoreapp2.1\Intro3 - Calculator.runtimeconfig.dev.json
+C:\Users\Michi\Desktop\DNP1\Intro3 - Calculator\bin\Debug\netcoreapp2.1\Intro3 - Calculator.dll
+C:\Users\Michi\Desktop\DNP1\Intro3 - Calculator\bin\Debug\netcoreapp2.1\Intro3 - Calculator.pdb
+C:\Users\Michi\Desktop\DNP1\Intro3 - Calculator\obj\Debug\netcoreapp2.1\Intro3 - Calculator.csprojAssemblyReference.cache
+C:\Users\Michi\Desktop\DNP1\Intro3 - Calculator\obj\Debug\netcoreapp2.1\Intro3 - Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Michi\Desktop\DNP1\Intro3 - Calculator\obj\Debug\netcoreapp2.1\Intro3 - Calculator.AssemblyInfoInputs.cache
+C:\Users\Michi\Desktop\DNP1\Intro3 - Calculator\obj\Debug\netcoreapp2.1\Intro3 - Calculator.AssemblyInfo.cs
+C:\Users\Michi\Desktop\DNP1\Intro3 - Calculator\obj\Debug\netcoreapp2.1\Intro3 - Calculator.dll
+C:\Users\Michi\Desktop\DNP1\Intro3 - Calculator\obj\Debug\netcoreapp2.1\Intro3 - Calculator.pdb

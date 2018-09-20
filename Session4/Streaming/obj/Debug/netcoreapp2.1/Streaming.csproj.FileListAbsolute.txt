@@ -1,0 +1,11 @@
+C:\Users\Michi\Desktop\DNP1\Session4\Streaming\bin\Debug\netcoreapp2.1\Streaming.deps.json
+C:\Users\Michi\Desktop\DNP1\Session4\Streaming\bin\Debug\netcoreapp2.1\Streaming.runtimeconfig.json
+C:\Users\Michi\Desktop\DNP1\Session4\Streaming\bin\Debug\netcoreapp2.1\Streaming.runtimeconfig.dev.json
+C:\Users\Michi\Desktop\DNP1\Session4\Streaming\bin\Debug\netcoreapp2.1\Streaming.dll
+C:\Users\Michi\Desktop\DNP1\Session4\Streaming\bin\Debug\netcoreapp2.1\Streaming.pdb
+C:\Users\Michi\Desktop\DNP1\Session4\Streaming\obj\Debug\netcoreapp2.1\Streaming.csprojAssemblyReference.cache
+C:\Users\Michi\Desktop\DNP1\Session4\Streaming\obj\Debug\netcoreapp2.1\Streaming.csproj.CoreCompileInputs.cache
+C:\Users\Michi\Desktop\DNP1\Session4\Streaming\obj\Debug\netcoreapp2.1\Streaming.AssemblyInfoInputs.cache
+C:\Users\Michi\Desktop\DNP1\Session4\Streaming\obj\Debug\netcoreapp2.1\Streaming.AssemblyInfo.cs
+C:\Users\Michi\Desktop\DNP1\Session4\Streaming\obj\Debug\netcoreapp2.1\Streaming.dll
+C:\Users\Michi\Desktop\DNP1\Session4\Streaming\obj\Debug\netcoreapp2.1\Streaming.pdb

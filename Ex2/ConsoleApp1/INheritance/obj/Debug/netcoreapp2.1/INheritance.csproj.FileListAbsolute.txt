@@ -1,0 +1,11 @@
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\INheritance\obj\Debug\netcoreapp2.1\INheritance.csprojAssemblyReference.cache
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\INheritance\obj\Debug\netcoreapp2.1\INheritance.csproj.CoreCompileInputs.cache
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\INheritance\obj\Debug\netcoreapp2.1\INheritance.AssemblyInfoInputs.cache
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\INheritance\obj\Debug\netcoreapp2.1\INheritance.AssemblyInfo.cs
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\INheritance\bin\Debug\netcoreapp2.1\INheritance.deps.json
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\INheritance\bin\Debug\netcoreapp2.1\INheritance.runtimeconfig.json
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\INheritance\bin\Debug\netcoreapp2.1\INheritance.runtimeconfig.dev.json
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\INheritance\bin\Debug\netcoreapp2.1\INheritance.dll
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\INheritance\bin\Debug\netcoreapp2.1\INheritance.pdb
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\INheritance\obj\Debug\netcoreapp2.1\INheritance.dll
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\INheritance\obj\Debug\netcoreapp2.1\INheritance.pdb

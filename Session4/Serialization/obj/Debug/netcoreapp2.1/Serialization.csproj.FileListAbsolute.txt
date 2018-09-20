@@ -1,0 +1,11 @@
+C:\Users\Michi\Desktop\DNP1\Session4\Serialization\bin\Debug\netcoreapp2.1\Serialization.deps.json
+C:\Users\Michi\Desktop\DNP1\Session4\Serialization\bin\Debug\netcoreapp2.1\Serialization.runtimeconfig.json
+C:\Users\Michi\Desktop\DNP1\Session4\Serialization\bin\Debug\netcoreapp2.1\Serialization.runtimeconfig.dev.json
+C:\Users\Michi\Desktop\DNP1\Session4\Serialization\bin\Debug\netcoreapp2.1\Serialization.dll
+C:\Users\Michi\Desktop\DNP1\Session4\Serialization\bin\Debug\netcoreapp2.1\Serialization.pdb
+C:\Users\Michi\Desktop\DNP1\Session4\Serialization\obj\Debug\netcoreapp2.1\Serialization.csprojAssemblyReference.cache
+C:\Users\Michi\Desktop\DNP1\Session4\Serialization\obj\Debug\netcoreapp2.1\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Michi\Desktop\DNP1\Session4\Serialization\obj\Debug\netcoreapp2.1\Serialization.AssemblyInfoInputs.cache
+C:\Users\Michi\Desktop\DNP1\Session4\Serialization\obj\Debug\netcoreapp2.1\Serialization.AssemblyInfo.cs
+C:\Users\Michi\Desktop\DNP1\Session4\Serialization\obj\Debug\netcoreapp2.1\Serialization.dll
+C:\Users\Michi\Desktop\DNP1\Session4\Serialization\obj\Debug\netcoreapp2.1\Serialization.pdb

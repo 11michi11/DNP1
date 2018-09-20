@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="\8e396245" t="IncludeRecursive" />
+    <e p="\app" t="IncludeRecursive" />
+    <e p="C:\Users\Michi\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Michi\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Session 3.29738598.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Michi\Desktop\DNP1\Session 3" t="IncludeFlat">
+      <e p="Delegate" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Delegate.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Delegate.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="ExtensionMethods" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ExtensionMethods.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="ExtensionMethods.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Generic Interfaces" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Bomb.cs" t="Include" />
+        <e p="Generic Interfaces.csproj" t="IncludeRecursive" />
+        <e p="IExploadable.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Generic Interfaces.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Generics Stack" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Generics Stack.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Generics Stack.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Lambdas" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Car.cs" t="Include" />
+        <e p="Lambdas.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Lambdas.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="MethodOverloading" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MethodOverloading.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="MethodOverloading.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Player.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="OperatorOverloading" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="OperatorOverloading.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OperatorOverloading.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Time.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Session 3.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

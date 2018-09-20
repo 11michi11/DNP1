@@ -1,0 +1,11 @@
+C:\Users\Michi\Desktop\DNP1\Session 3\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.deps.json
+C:\Users\Michi\Desktop\DNP1\Session 3\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.runtimeconfig.json
+C:\Users\Michi\Desktop\DNP1\Session 3\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\Michi\Desktop\DNP1\Session 3\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.dll
+C:\Users\Michi\Desktop\DNP1\Session 3\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.pdb
+C:\Users\Michi\Desktop\DNP1\Session 3\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\Michi\Desktop\DNP1\Session 3\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Michi\Desktop\DNP1\Session 3\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\Michi\Desktop\DNP1\Session 3\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.AssemblyInfo.cs
+C:\Users\Michi\Desktop\DNP1\Session 3\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.dll
+C:\Users\Michi\Desktop\DNP1\Session 3\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.pdb

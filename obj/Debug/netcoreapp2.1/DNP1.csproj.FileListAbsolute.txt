@@ -1,0 +1,11 @@
+C:\Users\Michi\Desktop\DNP1\bin\Debug\netcoreapp2.1\DNP1.deps.json
+C:\Users\Michi\Desktop\DNP1\bin\Debug\netcoreapp2.1\DNP1.runtimeconfig.json
+C:\Users\Michi\Desktop\DNP1\bin\Debug\netcoreapp2.1\DNP1.runtimeconfig.dev.json
+C:\Users\Michi\Desktop\DNP1\bin\Debug\netcoreapp2.1\DNP1.dll
+C:\Users\Michi\Desktop\DNP1\bin\Debug\netcoreapp2.1\DNP1.pdb
+C:\Users\Michi\Desktop\DNP1\obj\Debug\netcoreapp2.1\DNP1.csprojAssemblyReference.cache
+C:\Users\Michi\Desktop\DNP1\obj\Debug\netcoreapp2.1\DNP1.csproj.CoreCompileInputs.cache
+C:\Users\Michi\Desktop\DNP1\obj\Debug\netcoreapp2.1\DNP1.AssemblyInfoInputs.cache
+C:\Users\Michi\Desktop\DNP1\obj\Debug\netcoreapp2.1\DNP1.AssemblyInfo.cs
+C:\Users\Michi\Desktop\DNP1\obj\Debug\netcoreapp2.1\DNP1.dll
+C:\Users\Michi\Desktop\DNP1\obj\Debug\netcoreapp2.1\DNP1.pdb

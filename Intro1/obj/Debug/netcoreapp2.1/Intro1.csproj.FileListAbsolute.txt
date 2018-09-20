@@ -1,0 +1,11 @@
+C:\Users\Michi\Desktop\DNP1\Intro1\bin\Debug\netcoreapp2.1\Intro1.deps.json
+C:\Users\Michi\Desktop\DNP1\Intro1\bin\Debug\netcoreapp2.1\Intro1.runtimeconfig.json
+C:\Users\Michi\Desktop\DNP1\Intro1\bin\Debug\netcoreapp2.1\Intro1.runtimeconfig.dev.json
+C:\Users\Michi\Desktop\DNP1\Intro1\bin\Debug\netcoreapp2.1\Intro1.dll
+C:\Users\Michi\Desktop\DNP1\Intro1\bin\Debug\netcoreapp2.1\Intro1.pdb
+C:\Users\Michi\Desktop\DNP1\Intro1\obj\Debug\netcoreapp2.1\Intro1.csprojAssemblyReference.cache
+C:\Users\Michi\Desktop\DNP1\Intro1\obj\Debug\netcoreapp2.1\Intro1.csproj.CoreCompileInputs.cache
+C:\Users\Michi\Desktop\DNP1\Intro1\obj\Debug\netcoreapp2.1\Intro1.AssemblyInfoInputs.cache
+C:\Users\Michi\Desktop\DNP1\Intro1\obj\Debug\netcoreapp2.1\Intro1.AssemblyInfo.cs
+C:\Users\Michi\Desktop\DNP1\Intro1\obj\Debug\netcoreapp2.1\Intro1.dll
+C:\Users\Michi\Desktop\DNP1\Intro1\obj\Debug\netcoreapp2.1\Intro1.pdb

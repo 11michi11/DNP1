@@ -1,0 +1,11 @@
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.deps.json
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.json
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.dev.json
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.dll
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.pdb
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.csprojAssemblyReference.cache
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfo.cs
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.dll
+C:\Users\Michi\Desktop\DNP1\Ex2\ConsoleApp1\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.pdb
