@@ -1,0 +1,17 @@
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel.Tests\bin\Debug\netcoreapp2.1\GameModel.Tests.deps.json
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel.Tests\bin\Debug\netcoreapp2.1\GameModel.Tests.runtimeconfig.json
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel.Tests\bin\Debug\netcoreapp2.1\GameModel.Tests.runtimeconfig.dev.json
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel.Tests\bin\Debug\netcoreapp2.1\GameModel.Tests.dll
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel.Tests\bin\Debug\netcoreapp2.1\GameModel.Tests.pdb
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel.Tests\bin\Debug\netcoreapp2.1\GameModel.dll
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel.Tests\bin\Debug\netcoreapp2.1\GameModel.pdb
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel.Tests\obj\Debug\netcoreapp2.1\GameModel.Tests.csprojAssemblyReference.cache
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel.Tests\obj\Debug\netcoreapp2.1\GameModel.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel.Tests\obj\Debug\netcoreapp2.1\GameModel.Tests.AssemblyInfoInputs.cache
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel.Tests\obj\Debug\netcoreapp2.1\GameModel.Tests.AssemblyInfo.cs
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel.Tests\obj\Debug\netcoreapp2.1\GameModel.Tests.csproj.CopyComplete
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel.Tests\obj\Debug\netcoreapp2.1\GameModel.Tests.dll
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel.Tests\obj\Debug\netcoreapp2.1\GameModel.Tests.pdb

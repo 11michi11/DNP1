@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e25c45da-d61c-4bb5-983b-da5364375d20" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Session4/.idea/.idea.Session4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Session4/.idea/.idea.Session4/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2050780416">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="590" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="590" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TDD/Generator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="19" />
+              <folding>
+                <marker date="1538401640071" expanded="false" signature="6:47" ph="..." />
+                <marker date="1538401640071" expanded="true" signature="62:347" ph="{...}" />
+                <marker date="1538401640071" expanded="true" signature="84:345" ph="{...}" />
+                <marker date="1538401640071" expanded="true" signature="130:197" ph="{...}" />
+                <marker date="1538401640071" expanded="true" signature="244:339" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameModel.Tests/HeroTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding>
+                <marker date="1538400529918" expanded="true" signature="6:26" ph="..." />
+                <marker date="1538400529918" expanded="true" signature="53:3613" ph="{...}" />
+                <marker date="1538400529918" expanded="true" signature="81:3611" ph="{...}" />
+                <marker date="1538400529918" expanded="true" signature="266:477" ph="{...}" />
+                <marker date="1538400529918" expanded="true" signature="558:743" ph="{...}" />
+                <marker date="1538400529918" expanded="true" signature="837:1023" ph="{...}" />
+                <marker date="1538400529918" expanded="true" signature="1094:1268" ph="{...}" />
+                <marker date="1538400529918" expanded="true" signature="1367:1540" ph="{...}" />
+                <marker date="1538400529918" expanded="true" signature="1633:1847" ph="{...}" />
+                <marker date="1538400529918" expanded="true" signature="1927:2142" ph="{...}" />
+                <marker date="1538400529918" expanded="true" signature="2231:2510" ph="{...}" />
+                <marker date="1538400529918" expanded="true" signature="2604:2883" ph="{...}" />
+                <marker date="1538400529918" expanded="true" signature="2977:3332" ph="{...}" />
+                <marker date="1538400529918" expanded="true" signature="3425:3605" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TDD.Test/UnitTest1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+              <folding>
+                <marker date="1538402232383" expanded="true" signature="32:213" ph="{...}" />
+                <marker date="1538402232383" expanded="true" signature="61:211" ph="{...}" />
+                <marker date="1538402232383" expanded="true" signature="133:205" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Program</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/GameModel/Weapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TDD.Test/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameModel.Tests/HeroTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameModel.Tests/obj/Debug/netcoreapp2.1/GameModel.Tests.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameModel/Hero.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TDD/Generator.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GameModel/Hero.cs" />
+        <option value="$PROJECT_DIR$/GameModel.Tests/HeroTest.cs" />
+        <option value="$PROJECT_DIR$/TDD.Tests/Program.cs" />
+        <option value="$PROJECT_DIR$/TDD.Tests/ProgramTest.cs" />
+        <option value="$PROJECT_DIR$/TDD/Program.cs" />
+        <option value="$PROJECT_DIR$/TDD/Generator.cs" />
+        <option value="$PROJECT_DIR$/TDD.Test/UnitTest1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="exercise_1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="exercise_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GameModel" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="exercise_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GameModel.Tests" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="exercise_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TDD" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="exercise_1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TDD.Test" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e25c45da-d61c-4bb5-983b-da5364375d20" name="Default Changelist" comment="" />
+      <created>1538392356246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538392356246</updated>
+      <workItem from="1538392359378" duration="4283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4283000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" weight="0.3299566" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" weight="0.3299566" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3299566" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.3299566" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39942113" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TDD.Tests/ProgramTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TDD/Generator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <marker date="1538401640071" expanded="false" signature="6:47" ph="..." />
+            <marker date="1538401640071" expanded="true" signature="62:347" ph="{...}" />
+            <marker date="1538401640071" expanded="true" signature="84:345" ph="{...}" />
+            <marker date="1538401640071" expanded="true" signature="130:197" ph="{...}" />
+            <marker date="1538401640071" expanded="true" signature="244:339" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameModel/Weapon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1538337582000" expanded="true" signature="19:99" ph="{...}" />
+            <marker date="1538337582000" expanded="true" signature="45:97" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameModel/Hero.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" column="47" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="47" />
+          <folding>
+            <marker date="1538395628418" expanded="true" signature="34:939" ph="{...}" />
+            <marker date="1538395628418" expanded="true" signature="58:937" ph="{...}" />
+            <marker date="1538395628418" expanded="true" signature="273:327" ph="{...}" />
+            <marker date="1538395628418" expanded="true" signature="364:601" ph="{...}" />
+            <marker date="1538395628418" expanded="true" signature="467:532" ph="{...}" />
+            <marker date="1538395628418" expanded="true" signature="652:931" ph="{...}" />
+            <marker date="1538395628418" expanded="true" signature="696:775" ph="{...}" />
+            <marker date="1538395628418" expanded="true" signature="862:921" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameModel.Tests/HeroTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <marker date="1538400529918" expanded="true" signature="6:26" ph="..." />
+            <marker date="1538400529918" expanded="true" signature="53:3613" ph="{...}" />
+            <marker date="1538400529918" expanded="true" signature="81:3611" ph="{...}" />
+            <marker date="1538400529918" expanded="true" signature="266:477" ph="{...}" />
+            <marker date="1538400529918" expanded="true" signature="558:743" ph="{...}" />
+            <marker date="1538400529918" expanded="true" signature="837:1023" ph="{...}" />
+            <marker date="1538400529918" expanded="true" signature="1094:1268" ph="{...}" />
+            <marker date="1538400529918" expanded="true" signature="1367:1540" ph="{...}" />
+            <marker date="1538400529918" expanded="true" signature="1633:1847" ph="{...}" />
+            <marker date="1538400529918" expanded="true" signature="1927:2142" ph="{...}" />
+            <marker date="1538400529918" expanded="true" signature="2231:2510" ph="{...}" />
+            <marker date="1538400529918" expanded="true" signature="2604:2883" ph="{...}" />
+            <marker date="1538400529918" expanded="true" signature="2977:3332" ph="{...}" />
+            <marker date="1538400529918" expanded="true" signature="3425:3605" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TDD.Test/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+          <folding>
+            <marker date="1538402232383" expanded="true" signature="32:213" ph="{...}" />
+            <marker date="1538402232383" expanded="true" signature="61:211" ph="{...}" />
+            <marker date="1538402232383" expanded="true" signature="133:205" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

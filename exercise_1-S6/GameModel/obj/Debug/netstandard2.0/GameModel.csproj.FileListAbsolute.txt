@@ -1,0 +1,9 @@
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel\bin\Debug\netstandard2.0\GameModel.deps.json
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel\bin\Debug\netstandard2.0\GameModel.dll
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel\bin\Debug\netstandard2.0\GameModel.pdb
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel\obj\Debug\netstandard2.0\GameModel.csprojAssemblyReference.cache
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel\obj\Debug\netstandard2.0\GameModel.csproj.CoreCompileInputs.cache
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel\obj\Debug\netstandard2.0\GameModel.AssemblyInfoInputs.cache
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel\obj\Debug\netstandard2.0\GameModel.AssemblyInfo.cs
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel\obj\Debug\netstandard2.0\GameModel.dll
+C:\Users\Michi\Desktop\DNP1\exercise_1-S6\GameModel\obj\Debug\netstandard2.0\GameModel.pdb
